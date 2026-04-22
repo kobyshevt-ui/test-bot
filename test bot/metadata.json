@@ -1,0 +1,6 @@
+{
+  "name": "Booking Master Bot",
+  "description": "Telegram-бот для записи и бронирования с админ-панелью и каталогом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
